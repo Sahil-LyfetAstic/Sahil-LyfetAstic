@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-username/matrix-banner.gif" alt="Matrix Code" width="100%"/>
+<u1 align="center">
+  <img src="https://user-images.githubusercontent.com/Sahil-LyfetAstic/sukna.png" alt="Matrix Code" width="100%"/>
 </h1>
 
 <h1 align="center">👨‍💻 Muhammed Sahil PS | Backend Developer & Cybersecurity Enthusiast</h1>
