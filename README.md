@@ -1,6 +1,7 @@
-<u1 align="center">
-  <img src="https://user-images.githubusercontent.com/Sahil-LyfetAstic/sukna.png" alt="Matrix Code" width="100%"/>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Sahil-LyfetAstic/Sahil-LyfetAstic/main/sukna.png" alt="Matrix Code" width="100%"/>
 </h1>
+
 
 <h1 align="center">👨‍💻 Muhammed Sahil PS | Backend Developer & Cybersecurity Enthusiast</h1>
 
