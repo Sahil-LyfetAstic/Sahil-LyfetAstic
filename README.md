@@ -70,6 +70,16 @@ I'm a passionate **Backend Developer** specializing in **Node.js** and **NestJS*
 
 ---
 
+### 📝 Notable Projects
+- **WiFi Pineapple Custom Firmware**:
+  - A custom firmware project using OpenWrt to create a portable penetration testing tool.
+- **Automation Scripts for CTF Challenges**:
+  - Advanced scripts to streamline CTF workflows, including automated shell upgrades, reverse shell handling, and exploitation scripting.
+- **Metasploit Pro Workflow Automation**:
+  - A Python script for launching Metasploit Pro with pre-configured aliases, IP management, and session handling for efficient exploit execution.
+
+---
+
 ### 📚 Fun Fact
 I blend my backend expertise with a passion for ethical hacking. Let’s connect and dive into the depths of code and cybersecurity challenges!
 
